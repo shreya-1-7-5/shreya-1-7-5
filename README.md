@@ -10,36 +10,6 @@
 
 </div>
 
----
-
-# 💖 About Me
-
-```python
-class Shreya:
-
-    def __init__(self):
-        self.location = "Prayagraj, India 🌸"
-        self.role = "B.Tech CSE Student 💻"
-        self.loves = [
-            "AI Systems",
-            "Backend Engineering",
-            "FastAPI",
-            "NLP",
-            "Cute aesthetics",
-            "Automation"
-        ]
-
-    def currently_building(self):
-        return [
-            "NarrativeGuard 🛡️",
-            "TicketTriage-Engine 🎫",
-            "Trading Agents 📈",
-            
-        ]
-
-    def life_motto(self):
-        return "Build magical things with clean engineering ✨"
-```
 
 ---
 
